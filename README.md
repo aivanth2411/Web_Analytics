@@ -1,3 +1,8 @@
+View full Power BI dashboard [here]
+
+## About Dataset
+
+
 ## 📂 Project Background
 
 Maven Fuzzy Factory is an e-commerce company specializing in stuffed animals. This project presents an in-depth analysis of the company's website performance using **SQL** (data extraction & transformation) and **Power BI** (dashboard & visualization), covering the period from 2012 to 2015.
