@@ -76,7 +76,6 @@ last_touch_source as (
     WHERE f.rnk = 1 AND l.rnk = 1
     ORDER BY f.user_id;
 
-
 -- 6. Cohort retention + lifetime value (LTV) by first session month.
 
 -- 1) Cohort users based on first session
