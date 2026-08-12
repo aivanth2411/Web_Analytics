@@ -23,9 +23,14 @@ The analysis is structured around three core areas:
 - **Overall Web Performance**: Evaluate total and month-over-month trends in sessions, page views, and revenue to identify key patterns and highlight where optimization is needed.
 - **Acquisition & Conversion**: Analyze conversion rate trends and customer funnel  to identify which UTM sources and channels drive the most efficient traffic, and which steps in the customer journey underperform and need further investigation.
 - **Revenue & Retention**: Examine cohort revenue, cohort retention, daily revenue, and 28-day rolling average revenue to assess whether the business is successfully acquiring and retaining customers, and to identify seasonal patterns.
+
 ## 📝 Executive Summary
 
 ### Overview of Findings
+
+- **Overview:** Sessions and revenue follow a strong seasonal pattern, peaking each November–December and dropping sharply in January. Desktop drives most conversions while the mobile funnel's biggest weak point is the Product-to-Cart step.
+- **Acquisition:** Conversion rate increased overtime , indicating improving traffic quality rather than just growing volume. Gsearch dominates traffic share, but bsearch converts at a slightly higher rate.
+- **Revenue:** Cohort retention and rolling average analysis show a mild dip each December despite November spikes. This notions the need for cross-sell and seasonal re-engagement tactics.
 
 <table style="width: 100%;">
   <tr>
@@ -52,7 +57,7 @@ The analysis is structured around three core areas:
 Traffic consistently peaks around December in 3 years witnessed, which is expected for an e-commerce business driven by holiday shopping. Specifically:
 - Sessions grew steadily from 2K (Jan 2012) to a peak of 14K (Nov 2012), then dropped sharply to 6K in Jan 2013.
 - The similar cycle repeated over the next two years, with sessions climbing to 30K in Dec 2014 before falling to 15K in Jan 2015.
-Although this is a typical post-holiday seasonal pattern, further investigation into specific reasons (product quality, ) should be executed. In addition, the company can soften this slump by applying cross-sell/upsell campaign to retain old customers.
+Although this is a typical post-holiday seasonal pattern, further investigation into specific reasons (e.g. product quality) should be executed. In addition, the company can soften this slump by applying cross-sell/upsell campaign to retain old customers.
 
 **Total Sessions by Device**
 
@@ -115,3 +120,15 @@ To drive into conclusion which source is more efficient, the team should compare
 - Therefore, rather than chasing traditional retention metrics, focus on cross sell within a single visit, seasonal or gifting re engagement (birthdays, holidays), and referral programs, tactics better suited to this purchase pattern.
 
 ## ✨ Recommendations
+Based on the insights and findings above, we would recommend the business to consider the following:
+**1. Prioritize post-campaign services to avoid seasonal revenue slump.**
+Sessions and revenue consistently spike in November–December and drop sharply in January across all three years. Implementing cross-sell/upsell campaigns and seasonal re-engagement tactics right after the holiday peak can help retain customers and soften the post-holiday slump.
+
+**2. Minimize dependence on one SKU.**
+The business should diversify its product mix while also strengthening inventory reliability for "The Original Fuzzy"  to avoid stockouts and revenue loss.
+
+**3. Conduct research on customer funnel, between Product and Cart steps; focusing on mobile device.**
+This is the largest drop-off point in the funnel overall (63.65% of viewers never add to cart), and it's notably worse on mobile, pointing to friction in the mobile experience. We can use heatmaps and on-site surveys to pinpoint whether the cause is UX/UI, page load speed, or unclear CTAs.
+
+**4. Identify which searching channel drives the best traffic.**
+A CPC/CAC comparison across channels is needed to confirm whether gsearch's traffic volume still makes it the most cost-efficient channel, or if bsearch delivers better ROI.
