@@ -25,6 +25,23 @@ The analysis is structured around three core areas:
 
 ### Overview of Findings
 
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 33.33%; text-align: center;">
+      <img width="523" height="302" alt="{B7B32F34-91DD-49E7-BB9F-26ECE10EEF72}" src="https://github.com/user-attachments/assets/490af81b-a378-4284-b7e9-33fbfd0e6af6" alt="Dashboard 1" width="100%">
+      <p><i>Overview</i></p>
+    </td>
+    <td style="width: 33.33%; text-align: center;">
+      <img width="524" height="299" alt="{535FD49A-CDB6-4FE3-A502-8C57417CD9CF}" src="https://github.com/user-attachments/assets/d0306902-4ada-4fea-8989-f687f03027a0" alt="Dashboard 2" width="100%">
+      <p><i>Acquisition & Conversion</i></p>
+    </td>
+    <td style="width: 33.33%; text-align: center;">
+      <img width="522" height="297" alt="{D93CF052-96A8-4DCB-8FE5-04B4142734DD}" src="https://github.com/user-attachments/assets/d59e95c3-f6a0-4ceb-a1c7-44275b01733f" alt="Dashboard 3" width="100%">
+      <p><i>Revenue & Retention</i></p>
+    </td>
+  </tr>
+</table>
+
 ## 👀 Insights Deep Dive
 
 ### Overview
