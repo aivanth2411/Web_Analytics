@@ -7,6 +7,8 @@ In this project, I connected DBeaver to Xom Dataset's domain directly to pull th
 
 Link to the dataset: [web_analytics](https://dataset.xomdata.com/datasets/schema/web_analytics)
 ### 🔗 Data Structure & ERD (Entity Relationship Diagram)
+
+<p align="center">
 <img width="1206" height="784" alt="Web_analytics" src="https://github.com/user-attachments/assets/949ad723-4c04-412b-b23b-2a43ee1f5c33" />
 
 - `orders`: Order-level records, including order date, price, and linked session ID.
