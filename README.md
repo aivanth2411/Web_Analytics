@@ -121,14 +121,11 @@ To drive into conclusion which source is more efficient, the team should compare
 
 ## ✨ Recommendations
 Based on the insights and findings above, we would recommend the business to consider the following:
-**1. Prioritize post-campaign services to avoid seasonal revenue slump.**
-Sessions and revenue consistently spike in November–December and drop sharply in January across all three years. Implementing cross-sell/upsell campaigns and seasonal re-engagement tactics right after the holiday peak can help retain customers and soften the post-holiday slump.
 
-**2. Minimize dependence on one SKU.**
-The business should diversify its product mix while also strengthening inventory reliability for "The Original Fuzzy"  to avoid stockouts and revenue loss.
+**1. Prioritize post-campaign services to avoid seasonal revenue slump**: Sessions and revenue consistently spike in November–December and drop sharply in January across all three years. Implementing cross-sell/upsell campaigns and seasonal re-engagement tactics right after the holiday peak can help retain customers and soften the post-holiday slump.
 
-**3. Conduct research on customer funnel, between Product and Cart steps; focusing on mobile device.**
-This is the largest drop-off point in the funnel overall (63.65% of viewers never add to cart), and it's notably worse on mobile, pointing to friction in the mobile experience. We can use heatmaps and on-site surveys to pinpoint whether the cause is UX/UI, page load speed, or unclear CTAs.
+**2. Minimize dependence on one SKU**: The business should diversify its product mix while also strengthening inventory reliability for "The Original Fuzzy"  to avoid stockouts and revenue loss.
 
-**4. Identify which searching channel drives the best traffic.**
-A CPC/CAC comparison across channels is needed to confirm whether gsearch's traffic volume still makes it the most cost-efficient channel, or if bsearch delivers better ROI.
+**3. Conduct research on customer funnel, between Product and Cart steps; focusing on mobile device**: This is the largest drop-off point in the funnel overall (63.65% of viewers never add to cart), and it's notably worse on mobile, pointing to friction in the mobile experience. We can use heatmaps and on-site surveys to pinpoint whether the cause is UX/UI, page load speed, or unclear CTAs.
+
+**4. Identify which searching channel drives the best traffic**: There should be a CPC/CAC comparison across channels to confirm whether gsearch's traffic volume still makes it the most cost-efficient channel, or if bsearch delivers better ROI.
