@@ -59,10 +59,16 @@ Traffic consistently peaks around December in 3 years witnessed, which is expect
 - The similar cycle repeated over the next two years, with sessions climbing to 30K in Dec 2014 before falling to 15K in Jan 2015.
 Although this is a typical post-holiday seasonal pattern, further investigation into specific reasons (e.g. product quality) should be executed. In addition, the company can soften this slump by applying cross-sell/upsell campaign to retain old customers.
 
+<p align="center">
+<img width="606" height="343" alt="{49CE415B-08CF-4B92-B163-483FAFFA80C1}" src="https://github.com/user-attachments/assets/6adbd587-c789-4cb4-8e87-fd45dbb20cd6" width="60%"/>
+
 **Total Sessions by Device**
 
 - Desktop leads in both traffic share and conversion efficiency: Desktop accounts for ~70% of total sessions with an 8.5% conversion rate, while mobile makes up the remaining ~30% and converts at just 3.1%.
 - Since mobile underperforms even after accounting for its smaller traffic share, this points to friction in the mobile experience itself (page load speed, checkout flow, UI), not simply a traffic mix issue.
+  
+<p align="center">
+<img width="546" height="330" alt="{B8B1C10B-9768-4EE8-B360-58CAEC3E3308}" src="https://github.com/user-attachments/assets/3d2467f3-d46d-4dc7-804d-0c64282a644f" width="60%"/>
 
  ***Mobile Funnel***
 
@@ -79,7 +85,11 @@ Although this is a typical post-holiday seasonal pattern, further investigation 
 **Page Views by URL**
 - The products page receives the highest number of page views, suggesting most users land there directly rather than starting from the homepage. This pattern is sensible as most traffic is driven by paid search ads.
 - "The Original Mr. Fuzzy" is both the most viewed product and the top revenue driver, generating roughly $1,867K (about 73%) of the $2,542K total revenue.
-- As revenue is heavily dependent on this product, there's a need to diversify revenue beyond one single SKU, while increasing the inventory reliability for this product to avoid scarcity and decrease in revenue. 
+- As revenue is heavily dependent on this product, there's a need to diversify revenue beyond one single SKU, while increasing the inventory reliability for this product to avoid scarcity and decrease in revenue.
+
+<p align="center">
+<img width="601" height="334" alt="{49082CCB-FAAA-4AFF-A476-B58FD2E5748B}" src="https://github.com/user-attachments/assets/f23bbadb-3eb1-42f6-8d8b-4c990b55e9a7" width="60%"/>
+
 ## Acquisition
 
 **Conversion Rate Trend Over Time**
@@ -87,15 +97,32 @@ Although this is a typical post-holiday seasonal pattern, further investigation 
 - The average conversion rate is 6.83%. Conversion rate shows a gradual upward trend across the period, with the highest increase between Quarter 4 2012 and Quarter 2013, which reflects the overall seasonal pattern. 
 - This suggests the site is not just driving more traffic; the traffic is also converting increasingly well over time.
 
+<p align="center">
+<img width="599" height="339" alt="{58BCAA91-2F6D-4BA7-A264-75D9CEF2BA8A}" src="https://github.com/user-attachments/assets/fbf76727-d4cd-4e65-a902-96577a42c0a9" />
+
 **Sessions vs. Conversion Rate by UTM Source**
 
 *UTM Source: the parameter added into the URL to track the exact origin of web traffic*.
 The number of website session from gsearch (Google Ads) wasn't proportional with conversion rate. 
 - Total Conversions: gsearch (Google Ads) drives roughly 5x the sessions of bsearch (Bing Ads) and about 30x that of socialbook. Also, gsearch gained the highest traffic in both first touch and last touch step of all 3 channels. 
 - Conversion Rate: However, bsearch converts at 7.2% while gsearch's only 6.8%.
-To drive into conclusion which source is more efficient, the team should compare cost per click (CPC) and cost per acquisition (CAC) across channels to confirm whether bsearch's higher conversion rate also translates into better ROI, or whether gsearch is still more cost-efficient. 
+To drive into conclusion which source is more efficient, the team should compare cost per click (CPC) and cost per acquisition (CAC) across channels to confirm whether bsearch's higher conversion rate also translates into better ROI, or whether gsearch is still more cost-efficient.
+
+<table border="0" style="width: 100%;">
+  <tr>
+    <td align="center">
+      <img width="564" height="342" alt="{3875498E-53DD-41B9-80C2-E4C6876581D4}" src="https://github.com/user-attachments/assets/6ddbc372-eba0-4980-8761-1726c8965c4a" alt="Total Sessions by UTM Source" width="60%" />
+    </td>
+    <td align="center">
+      <img width="549" height="339" alt="{C581AB2C-C668-4E98-98DA-3A41B4401B80}" src="https://github.com/user-attachments/assets/55d52801-1e4f-4226-993c-edd0d1e47214" width="60%" />
+    </td>
+  </tr>
+</table>
 
 **Customer Funnel** 
+
+<p align="center">
+<img width="606" height="343" alt="{EB212536-6FC0-40BA-B11B-8B9EA3EAB506}" src="https://github.com/user-attachments/assets/bf12c718-a322-4799-a205-999df231a618" />
 
 |Step|% from previous step|Definition|
 |---|---|---|
@@ -113,11 +140,18 @@ To drive into conclusion which source is more efficient, the team should compare
 - The 28 day rolling average shows steady growth from mid 2013 through mid 2015, with a mild dip each December despite daily revenue spikes in November across all three years, consistent with the seasonal pattern seen in overall sessions.
 - We need to identify if this is simply a dup after a seasonal spike or a retention issue, in which customers who bought once for the holidays don't return. Methods that can be used are: observing the repeat purchase rate after December, or comparing cohort retention between seasons.
 
+<p align="center">
+<img width="596" height="336" alt="{0296F9BD-4D88-4754-AD59-32100C792195}" src="https://github.com/user-attachments/assets/97ca5287-a656-409c-b3b9-86f56e19c156" />
+
+
 **Cohort Revenue (First 3 Months)**
 - **Month 0 revenue:** Early cohorts (2012 to H1 2013) generated modest Month 0 revenue ($2,999 to $17,867), while cohorts from late 2013 onward show substantially higher Month 0 revenue ($25K to $182K), reflecting overall business growth.
 - **Retention (Month 1 to 3, % of Month 0):** Month 1 retention fluctuates between roughly 8% and 14% across cohorts with no clear sustained upward trend. Month 2 and Month 3 retention decline further and remain volatile even in later cohorts.
 - Because stuffed animals are a low frequency, often gift driven purchase, low repeat purchase rates are expected here and should not be judged by the same bar as subscription or FMCG products.
 - Therefore, rather than chasing traditional retention metrics, focus on cross sell within a single visit, seasonal or gifting re engagement (birthdays, holidays), and referral programs, tactics better suited to this purchase pattern.
+
+<p align="center">
+<img width="308" height="339" alt="{E1BF7EB8-B75F-473C-B181-A19F28ED2238}" src="https://github.com/user-attachments/assets/d488169d-593d-4b66-9990-a032c0e8f6de" />
 
 ## ✨ Recommendations
 Based on the insights and findings above, we would recommend the business to consider the following:
